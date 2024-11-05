@@ -116,7 +116,7 @@ create-folders
 
 9，将上述写的包发布NPM
 
-（1）创建NPM账号（官网：https://www.npmjs.com/）
+（1）创建NPM账号，官网：https://www.npmjs.com
 
 （2）登录NPM，在终端输入
 
