@@ -1,2 +1,2 @@
-# blog_js_example_code
+# Javascript Example Code (gdhblog.com)
 Record the code from my blog category on Javascript.
